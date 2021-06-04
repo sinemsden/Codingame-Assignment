@@ -22,3 +22,4 @@ around the HQ is homogeneous and we own the majority.
 my pods location.
 
 You could follow my comments in code for further understanding. 
+![Adsız](https://user-images.githubusercontent.com/82825564/120814373-7888f400-c557-11eb-9d9e-fd0216d401e2.png)
